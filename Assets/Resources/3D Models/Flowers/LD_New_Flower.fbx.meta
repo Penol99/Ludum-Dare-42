@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 07d0597fe882ea74f8a32f3c3643b1bc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Flower center
+    100002: Flower center.001
+    100004: Flower center.002
+    100006: Flower Large Stalk
+    100008: Flower Medium Stalk
+    100010: Flower small size.001
+    100012: //RootNode
+    100014: Leaf
+    100016: Leaf1
+    100018: Leaf10
+    100020: leaf2
+    100022: leaf3
+    100024: Leaf4
+    100026: Leaf5
+    100028: Leaf6
+    100030: Leaf7
+    100032: Leaf8
+    100034: Leaf9
+    100036: Plane.002
+    100038: Plane.007
+    100040: Plane.008
+    100042: Plane.012
+    100044: Plane.014
+    400000: Flower center
+    400002: Flower center.001
+    400004: Flower center.002
+    400006: Flower Large Stalk
+    400008: Flower Medium Stalk
+    400010: Flower small size.001
+    400012: //RootNode
+    400014: Leaf
+    400016: Leaf1
+    400018: Leaf10
+    400020: leaf2
+    400022: leaf3
+    400024: Leaf4
+    400026: Leaf5
+    400028: Leaf6
+    400030: Leaf7
+    400032: Leaf8
+    400034: Leaf9
+    400036: Plane.002
+    400038: Plane.007
+    400040: Plane.008
+    400042: Plane.012
+    400044: Plane.014
+    2100000: Flower green
+    2100002: grass
+    2100004: Dirt
+    2100006: Petal Yellow
+    2300000: Flower center
+    2300002: Flower center.001
+    2300004: Flower center.002
+    2300006: Flower Large Stalk
+    2300008: Flower Medium Stalk
+    2300010: Flower small size.001
+    2300012: Leaf
+    2300014: Leaf1
+    2300016: Leaf10
+    2300018: leaf2
+    2300020: leaf3
+    2300022: Leaf4
+    2300024: Leaf5
+    2300026: Leaf6
+    2300028: Leaf7
+    2300030: Leaf8
+    2300032: Leaf9
+    2300034: Plane.002
+    2300036: Plane.007
+    2300038: Plane.008
+    2300040: Plane.012
+    2300042: Plane.014
+    3300000: Flower center
+    3300002: Flower center.001
+    3300004: Flower center.002
+    3300006: Flower Large Stalk
+    3300008: Flower Medium Stalk
+    3300010: Flower small size.001
+    3300012: Leaf
+    3300014: Leaf1
+    3300016: Leaf10
+    3300018: leaf2
+    3300020: leaf3
+    3300022: Leaf4
+    3300024: Leaf5
+    3300026: Leaf6
+    3300028: Leaf7
+    3300030: Leaf8
+    3300032: Leaf9
+    3300034: Plane.002
+    3300036: Plane.007
+    3300038: Plane.008
+    3300040: Plane.012
+    3300042: Plane.014
+    4300000: Flower Large Stalk
+    4300002: Leaf7
+    4300004: Leaf4
+    4300006: Leaf8
+    4300008: Flower center.002
+    4300010: Plane.014
+    4300012: Plane.007
+    4300014: Leaf10
+    4300016: Leaf9
+    4300018: Flower Medium Stalk
+    4300020: leaf2
+    4300022: leaf3
+    4300024: Leaf5
+    4300026: Leaf6
+    4300028: Flower center.001
+    4300030: Plane.008
+    4300032: Plane.002
+    4300034: Flower small size.001
+    4300036: Flower center
+    4300038: Plane.012
+    4300040: Leaf1
+    4300042: Leaf
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

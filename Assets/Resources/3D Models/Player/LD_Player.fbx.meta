@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 0a9da97db8f6d874fa206e0e77936e48
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: CH_Belt strap
+    100004: CH_Belt strap.001
+    100006: CH_Body
+    100008: CH_Eye highlight
+    100010: CH_Eyebrows
+    100012: CH_Eyes
+    100014: CH_Hair
+    100016: CH_HandL
+    100018: CH_HandR
+    100020: CH_Mouth
+    100022: CH_Nose
+    100024: CH_Sprout
+    100026: Ch_Top eyelashes
+    100028: First1.L
+    100030: First1.R
+    100032: First2.L
+    100034: First2.L_end
+    100036: First2.R
+    100038: First2.R_end
+    100040: Hand0.L
+    100042: Hand0.R
+    100044: Hand1.L
+    100046: Hand1.R
+    100048: Head
+    100050: Head_end
+    100052: IK.L
+    100054: IK.L_end
+    100056: IK.R
+    100058: IK.R_end
+    100060: //RootNode
+    100062: Neck
+    100064: Pole.L
+    100066: Pole.L_end
+    100068: Pole.R
+    100070: Pole.R_end
+    100072: Root
+    100074: Second1.L
+    100076: Second1.R
+    100078: Second2.L
+    100080: Second2.R
+    100082: Second3.L
+    100084: Second3.L_end
+    100086: Second3.R
+    100088: Second3.R_end
+    100090: Shin.L
+    100092: Shin.L_end
+    100094: Shin.R
+    100096: Shin.R_end
+    100098: Spine1
+    100100: Spine2
+    100102: Thigh.L
+    100104: Thigh.R
+    100106: Thumb1.L
+    100108: Thumb1.R
+    100110: Thumb2.L
+    100112: Thumb2.L_end
+    100114: Thumb2.R
+    100116: Thumb2.R_end
+    400000: Armature
+    400002: CH_Belt strap
+    400004: CH_Belt strap.001
+    400006: CH_Body
+    400008: CH_Eye highlight
+    400010: CH_Eyebrows
+    400012: CH_Eyes
+    400014: CH_Hair
+    400016: CH_HandL
+    400018: CH_HandR
+    400020: CH_Mouth
+    400022: CH_Nose
+    400024: CH_Sprout
+    400026: Ch_Top eyelashes
+    400028: First1.L
+    400030: First1.R
+    400032: First2.L
+    400034: First2.L_end
+    400036: First2.R
+    400038: First2.R_end
+    400040: Hand0.L
+    400042: Hand0.R
+    400044: Hand1.L
+    400046: Hand1.R
+    400048: Head
+    400050: Head_end
+    400052: IK.L
+    400054: IK.L_end
+    400056: IK.R
+    400058: IK.R_end
+    400060: //RootNode
+    400062: Neck
+    400064: Pole.L
+    400066: Pole.L_end
+    400068: Pole.R
+    400070: Pole.R_end
+    400072: Root
+    400074: Second1.L
+    400076: Second1.R
+    400078: Second2.L
+    400080: Second2.R
+    400082: Second3.L
+    400084: Second3.L_end
+    400086: Second3.R
+    400088: Second3.R_end
+    400090: Shin.L
+    400092: Shin.L_end
+    400094: Shin.R
+    400096: Shin.R_end
+    400098: Spine1
+    400100: Spine2
+    400102: Thigh.L
+    400104: Thigh.R
+    400106: Thumb1.L
+    400108: Thumb1.R
+    400110: Thumb2.L
+    400112: Thumb2.L_end
+    400114: Thumb2.R
+    400116: Thumb2.R_end
+    2100000: Material.007
+    2100002: Material.008
+    2100004: Material.003
+    2100006: Material.005
+    2100008: Material.004
+    2100010: Material.006
+    2100012: Material.002
+    2100014: Material.001
+    2100016: Material.009
+    2100018: Material.010
+    2300000: CH_Eye highlight
+    2300002: CH_Eyebrows
+    2300004: CH_Eyes
+    2300006: CH_Hair
+    2300008: CH_Mouth
+    2300010: CH_Nose
+    2300012: CH_Sprout
+    2300014: Ch_Top eyelashes
+    3300000: CH_Eye highlight
+    3300002: CH_Eyebrows
+    3300004: CH_Eyes
+    3300006: CH_Hair
+    3300008: CH_Mouth
+    3300010: CH_Nose
+    3300012: CH_Sprout
+    3300014: Ch_Top eyelashes
+    4300000: CH_Hair
+    4300002: CH_Sprout
+    4300004: CH_Eyebrows
+    4300006: Ch_Top eyelashes
+    4300008: CH_Nose
+    4300010: CH_Eyes
+    4300012: CH_Eye highlight
+    4300014: CH_Mouth
+    4300016: CH_HandL
+    4300018: CH_HandR
+    4300020: CH_Body
+    4300022: CH_Belt strap.001
+    4300024: CH_Belt strap
+    7400000: Armature|Idle
+    7400002: Armature|Run
+    7400004: Armature|Digging
+    7400006: Armature|Holding Can
+    7400008: Armature|Holding Seed
+    7400010: Armature|Holding shovel still
+    7400012: Armature|Throwing dirt
+    7400014: Armature|Watering
+    7400016: Armature|Placing down pot
+    7400018: Armature|Placing down Seed
+    9500000: //RootNode
+    13700000: CH_Belt strap
+    13700002: CH_Belt strap.001
+    13700004: CH_Body
+    13700006: CH_HandL
+    13700008: CH_HandR
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 114b593415fbc24478a0cacce49b9a5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: e025b2fabb6ebfb4aaaa2085e2c5270a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: b44f073723239164ca6fc9c291d89ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 70bca8d8b6beeff4d802ee2b30d74a3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 396ebaa2d4acc3c43b2d689472a76459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 9dba0f2dbca182741beb1cbb40884aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: de6f8b0b3dcf22247834e134f85c3e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 9a94fd8d6596c7b47a04671962d8280e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: ad797dd2227fea34d90e21aca26f63bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: c10f018e9cad7fd4697ab21030b0ae29, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Run
+      takeName: Armature|Run
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Digging
+      takeName: Armature|Digging
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Holding Can
+      takeName: Armature|Holding Can
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Holding Seed
+      takeName: Armature|Holding Seed
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Holding shovel still
+      takeName: Armature|Holding shovel still
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Throwing dirt
+      takeName: Armature|Throwing dirt
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Watering
+      takeName: Armature|Watering
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Placing down pot
+      takeName: Armature|Placing down pot
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Placing down Seed
+      takeName: Armature|Placing down Seed
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

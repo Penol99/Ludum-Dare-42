@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Hands
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/IK.L
+    m_Weight: 0
+  - m_Path: Armature/IK.L/IK.L_end
+    m_Weight: 0
+  - m_Path: Armature/IK.R
+    m_Weight: 0
+  - m_Path: Armature/IK.R/IK.R_end
+    m_Weight: 0
+  - m_Path: Armature/Root
+    m_Weight: 0
+  - m_Path: Armature/Root/Pole.L
+    m_Weight: 0
+  - m_Path: Armature/Root/Pole.L/Pole.L_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Pole.R
+    m_Weight: 0
+  - m_Path: Armature/Root/Pole.R/Pole.R_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/First1.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/First1.L/First2.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/First1.L/First2.L/First2.L_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/Second1.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/Second1.L/Second2.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/Second1.L/Second2.L/Second3.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/Second1.L/Second2.L/Second3.L/Second3.L_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/Thumb1.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/Thumb1.L/Thumb2.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.L/Hand1.L/Thumb1.L/Thumb2.L/Thumb2.L_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/First1.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/First1.R/First2.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/First1.R/First2.R/First2.R_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/Second1.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/Second1.R/Second2.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/Second1.R/Second2.R/Second3.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/Second1.R/Second2.R/Second3.R/Second3.R_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/Thumb1.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/Thumb1.R/Thumb2.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Hand0.R/Hand1.R/Thumb1.R/Thumb2.R/Thumb2.R_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Spine1/Spine2/Neck
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head/CH_Eyebrows
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head/CH_Eyes
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head/CH_Eyes/CH_Eye highlight
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head/CH_Hair
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head/CH_Mouth
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head/CH_Nose
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head/CH_Sprout
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head/Ch_Top eyelashes
+    m_Weight: 0
+  - m_Path: Armature/Root/Spine1/Spine2/Neck/Head/Head_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Thigh.L
+    m_Weight: 0
+  - m_Path: Armature/Root/Thigh.L/Shin.L
+    m_Weight: 0
+  - m_Path: Armature/Root/Thigh.L/Shin.L/Shin.L_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Thigh.R
+    m_Weight: 0
+  - m_Path: Armature/Root/Thigh.R/Shin.R
+    m_Weight: 0
+  - m_Path: Armature/Root/Thigh.R/Shin.R/Shin.R_end
+    m_Weight: 0
+  - m_Path: CH_Belt strap
+    m_Weight: 1
+  - m_Path: CH_Belt strap.001
+    m_Weight: 1
+  - m_Path: CH_Body
+    m_Weight: 1
+  - m_Path: CH_HandL
+    m_Weight: 1
+  - m_Path: CH_HandR
+    m_Weight: 1
